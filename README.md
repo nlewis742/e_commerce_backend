@@ -16,11 +16,9 @@ And Insomnia Core to test the routes.
 ## License
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-## Screenshot
-
-![Screenshot](./assets/images/screenshot.png)
 
 ## Walkthrough Video
 
+https://drive.google.com/file/d/1O9F-D7XO_oLLx7Woitta7dGXp3qS7_e5/view
 
 
